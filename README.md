@@ -1,4 +1,3 @@
-
 {
  "cells": [
   {
@@ -6,7 +5,7 @@
    "id": "bd7b3cc0",
    "metadata": {},
    "source": [
-    "## Title of Project"
+   "## Title of Project"
    ]
   },
   {
